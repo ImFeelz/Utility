@@ -41,6 +41,12 @@
     --Legendary: 1800px;
 }
 
+*,
+::after,
+::before {
+    box-sizing: border-box;
+}
+
 /* HTML Tags */
 html {
     font-size: 100%;
