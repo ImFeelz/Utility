@@ -7,3 +7,6 @@ User guide coming sooon! =]
  * BEM Components
  * IE unit testing
  * Fixed / Absolute positioning TLBR configurables 
+ * Add flex shrink
+ * Add outline 0
+ * Add hover effects
