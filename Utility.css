@@ -1474,7 +1474,7 @@ html {
 }
 
 /* Large */
-@media (max-width: 992px)
+@media (max-width: 1200px)
 {
     /* Shadows */
     .shadow-none--lg {
@@ -2899,7 +2899,7 @@ html {
 }
 
 /* Medium */
-@media (max-width: 768px)
+@media (max-width: 992px)
 {
     /* Shadows */
     .shadow-none--md {
@@ -4324,7 +4324,7 @@ html {
 }
 
 /* Small */
-@media (max-width: 576px)
+@media (max-width: 768px)
 {
     /* Shadows */
     .shadow-none--sm {
